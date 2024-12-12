@@ -2,7 +2,9 @@
 
 ## Overview
 
-The CrewAI LinkedIn Content Team App is an open-source, template-driven application for generating LinkedIn-ready content using a structured workflow. The app is designed to help teams research, create, and refine engaging social media content, emphasizing high-quality output and collaborative teamwork. This project is built to be deployed on [Replit](https://replit.com), allowing users to explore its capabilities easily.
+The [CrewAI](https://crewai.com) LinkedIn Content Team App is an open-source, template application for generating LinkedIn-ready content using a team of AI agents in a structured team workflow. The app is designed demonstrate how a simple agent implementation can help teams research, create, and refine engaging social media content, emphasizing high-quality output and collaborative teamwork. 
+
+This project is built on [Replit](https://replit.com/).
 
 ## Features
 
